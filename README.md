@@ -1,4 +1,4 @@
-# kalimati-market-mind
+# Kalimati Market Mind
 
 An open-source data platform for exploring, visualizing, and forecasting agricultural commodity prices and supply volumes from the Kalimati Fruits & Vegetables Market — covering 21 years of historical data (BS 2060–2081).
 
