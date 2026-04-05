@@ -104,10 +104,6 @@ commodities = load_commodities()
 min_year, max_year = load_year_range()
 
 with st.sidebar:
-    st.image(
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/80px-Flag_of_Nepal.svg.png",
-        width=60,
-    )
     st.title("Kalimati Market")
     st.markdown("---")
 
